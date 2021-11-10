@@ -6,7 +6,7 @@
       "desc": "Cash Out Rs. 32.5 only",
       "price": 50,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "50"
     },
     {
@@ -15,7 +15,7 @@
       "desc": "Cash Out Rs. 65 only",
       "price": 100,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "100"
     },
     {
@@ -24,7 +24,7 @@
       "desc": "Cash Out Rs. 325 only",
       "price": 500,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "500"
     },
     {
@@ -33,7 +33,7 @@
       "desc": "Cash Out Rs. 650 only",
       "price": 1000,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "1000"
     },
     {
@@ -42,7 +42,7 @@
       "desc": "Cash Out Rs. 1300 only",
       "price": 2000,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "2000"
     },
     {
@@ -51,7 +51,7 @@
       "desc": "Cash Out Rs. 3250 only",
       "price": 5000,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "5000"
     },
     {
@@ -60,7 +60,7 @@
       "desc": "Cash Out Rs. 6500 only",
       "price": 10000,
       "color": "#33505a",
-      "image": "assets/images/rupee.png",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "para": "10000"
     }
   ]

@@ -10,7 +10,7 @@
       "description": "Description : ₹ 10 Token",
       "conversion" : "Conversion Details : You will get 50%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 20%,
+      "app" : "App's Charge : 20%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -23,7 +23,7 @@
       "description": "Description : ₹ 50 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 5%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -36,7 +36,7 @@
       "description": "Description : ₹ 100 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 5%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -49,7 +49,7 @@
       "description": "Description : ₹ 500 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 5%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -62,7 +62,7 @@
       "description": "Description : ₹ 1000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 5%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -75,7 +75,7 @@
       "description": "Description : ₹ 2000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 5%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -88,7 +88,7 @@
       "description": "Description : ₹ 5000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 5%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -101,7 +101,7 @@
       "description": "Description : ₹ 10000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 50%,
+      "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     }
   ]

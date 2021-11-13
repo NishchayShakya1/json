@@ -9,6 +9,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 10 Token",
       "conversion" : "Conversion Details : You will get 50%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 20%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -20,6 +22,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 50 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -31,6 +35,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 100 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -42,6 +48,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 500 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -53,6 +61,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 1000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -64,6 +74,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 2000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -75,6 +87,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 5000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
@@ -86,6 +100,8 @@
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 10000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%,
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     }
   ]

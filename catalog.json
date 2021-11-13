@@ -7,9 +7,9 @@
       "price": 50,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 50 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 50 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     },
     {
       "id": 2,
@@ -18,9 +18,9 @@
       "price": 100,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 100 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 100 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     },
     {
       "id": 3,
@@ -29,9 +29,9 @@
       "price": 500,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 500 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 500 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     },
     {
       "id": 4,
@@ -40,9 +40,9 @@
       "price": 1000,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 1000 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 1000 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     },
     {
       "id": 5,
@@ -51,9 +51,9 @@
       "price": 2000,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 2000 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 2000 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     },
     {
       "id": 6,
@@ -62,9 +62,9 @@
       "price": 5000,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 5000 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 5000 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     },
     {
       "id": 7,
@@ -73,9 +73,9 @@
       "price": 10000,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "Description": "Description : ₹ 10000 Token",
-      "Conversion" : "Conversion Details : You will get 65%.",
-      "ProTime" : "Processing Time: Will be Transferred Within 4 days."
+      "description": "Description : ₹ 10000 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "protime" : "Processing Time: Will be Transferred Within 4 days."
     }
   ]
 }

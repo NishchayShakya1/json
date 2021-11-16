@@ -41,6 +41,19 @@
     },
     {
       "id": 4,
+      "name": "₹ 195",
+      "desc": "Cash Out Rs. 195 only",
+      "price": 300,
+      "color": "#33505a",
+      "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
+      "description": "Description : ₹ 300 Token",
+      "conversion" : "Conversion Details : You will get 65%.",
+      "google" : "Google's Charge : 30%",
+      "app" : "App's Charge : 5%",
+      "protime" : "Processing Time: Will be Transferred Within 48 hrs."
+    },
+    {
+      "id": 5,
       "name": "₹ 325",
       "desc": "Cash Out Rs. 325 only",
       "price": 500,
@@ -53,7 +66,7 @@
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "₹ 650",
       "desc": "Cash Out Rs. 650 only",
       "price": 1000,
@@ -66,20 +79,20 @@
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
-      "id": 6,
-      "name": "₹ 1300",
+      "id": 7,
+      "name": "₹ 1950",
       "desc": "Cash Out Rs. 1300 only",
-      "price": 2000,
+      "price": 3000,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
-      "description": "Description : ₹ 2000 Token",
+      "description": "Description : ₹ 3000 Token",
       "conversion" : "Conversion Details : You will get 65%.",
       "google" : "Google's Charge : 30%",
       "app" : "App's Charge : 5%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "₹ 3250",
       "desc": "Cash Out Rs. 3250 only",
       "price": 5000,
@@ -92,7 +105,7 @@
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "₹ 6500",
       "desc": "Cash Out Rs. 6500 only",
       "price": 10000,

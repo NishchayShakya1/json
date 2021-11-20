@@ -2,15 +2,15 @@
   "products": [
     {
       "id": 1,
-      "name": "₹ 6",
-      "desc": "Cash Out Rs. 6 only",
+      "name": "₹ 5",
+      "desc": "Cash Out Rs. 5 only",
       "price": 10,
       "color": "#33505a",
       "image": "https://raw.githubusercontent.com/NishchayShakya1/rupee/main/rupee.png",
       "description": "Description : ₹ 10 Token",
-      "conversion" : "Conversion Details : You will get 60%.",
+      "conversion" : "Conversion Details : You will get 50%.",
       "google" : "Google's Charge : 30%",
-      "app" : "App's Charge : 10%",
+      "app" : "App's Charge : 20%",
       "protime" : "Processing Time: Will be Transferred Within 48 hrs."
     },
     {
